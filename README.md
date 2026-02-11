@@ -1,4 +1,4 @@
-# Launchify - Free Landing Page Template
+# Mapple - Free Business Landing Page Template
 
 #### Preview
 
