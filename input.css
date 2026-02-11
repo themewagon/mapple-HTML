@@ -20,6 +20,3 @@
         @apply cursor-pointer;
     }
 }
-html {
-    scroll-behavior: smooth;
-}
